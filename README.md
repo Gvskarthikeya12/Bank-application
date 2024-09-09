@@ -1,4 +1,4 @@
-User Registration System
+#User Registration System
 
 This project is a basic User Registration System implemented in Python, utilizing MYSQL as the database for storing user details.The system ensures that provide valid emails and strong passwords before their information is saved.
 
